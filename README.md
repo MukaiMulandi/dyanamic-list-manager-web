@@ -1,1 +1,1 @@
-# dyanamic-list-manager-web
+# dynamic-list-manager-web
